@@ -585,16 +585,16 @@ img {
   background-color: #31d0aa;
 }
 
-.backdrop .is-open {
+.backdrop {
   position: fixed;
   width: 100%;
   height: 100%;
   background-color: #2e2f4266;
   top: 0;
   left: 0;
-  opacity: 0;
+  /*opacity: 0;
   visibility: hidden;
-  pointer-events: none;
+  pointer-events: none;*/
 }
 
 .modal {
@@ -754,8 +754,8 @@ img {
 .check-text span {
 }
 
-.is-open {
+/*.is-open {
   opacity: 1;
   visibility: visible;
   pointer-events: auto;
-}
+}*/
