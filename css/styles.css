@@ -589,12 +589,12 @@ img {
   display: block;
   margin-top: 0;
   margin-bottom: 16px;
+  margin-left: 80px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #ffffff;
-  margin-left: 80px;
 }
 
 .footer-form {
@@ -611,6 +611,7 @@ img {
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   display: inline-flex;
   padding-left: 16px;
+  margin-left: 56px;
   justify-content: center;
   align-items: center;
   color: #ffffff;
@@ -627,9 +628,9 @@ img {
   color: #ffffff;
 }
 
-.footer-field {
+/*.footer-field {
   margin-left: 80px;
-}
+}*/
 
 .footer-btn {
   background-color: #4d5ae5;
