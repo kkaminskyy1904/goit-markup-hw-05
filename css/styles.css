@@ -585,7 +585,7 @@ img {
   background-color: #31d0aa;
 }
 
-.footer-input-label {
+.footer-form-label {
   display: block;
   margin-top: 0;
   margin-bottom: 16px;
@@ -615,9 +615,7 @@ img {
   justify-content: center;
   align-items: center;
   color: #ffffff;
-  font-family: Roboto;
   font-size: 12px;
-  font-style: normal;
   font-weight: 400;
   line-height: 1.5; /* 200% */
   letter-spacing: 0.04em;
@@ -642,26 +640,23 @@ img {
   align-items: center;
   justify-content: center;
   padding: 8px 24px;
-
   color: #ffffff;
   text-align: center;
-
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
   line-height: 24px; /* 150% */
   letter-spacing: 0.64px;
-
   cursor: pointer;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-
   padding-left: 24px;
   padding-right: 24px;
 }
 
 .footer-btn-icon {
   fill: #ffffff;
+  margin-left: 16px;
 }
 
 .backdrop {
@@ -731,9 +726,7 @@ img {
 .modal-title {
   color: #2e2f42;
   text-align: center;
-  font-family: Roboto;
   font-size: 16px;
-  font-style: normal;
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.32px;
@@ -753,7 +746,6 @@ img {
   outline: transparent;
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   padding-left: 38px;
-  font-family: Roboto;
   font-size: 12px;
   font-weight: 400;
   line-height: 14px;
@@ -768,9 +760,7 @@ img {
 .modal-label {
   display: block;
   color: #8e8f99;
-  font-family: Roboto;
   font-size: 12px;
-  font-style: normal;
   font-weight: 400;
   line-height: 1.17;
   letter-spacing: 0.48px;
@@ -809,8 +799,6 @@ img {
   padding: 8px 16px;
   margin-bottom: 16px;
   resize: none;
-
-  font-family: Roboto;
   font-size: 12px;
   font-weight: 400;
   line-height: 1.17;
@@ -826,9 +814,7 @@ img {
   display: block;
   min-width: 169px;
   height: 56px;
-
   padding: 16px 32px;
-
   border: none;
   border-radius: 4px;
   color: white;
@@ -853,13 +839,6 @@ img {
   display: flex;
   align-items: center;
   color: #8e8f99;
-  font-family: Roboto;
-  font-size: 12px;
-  font-weight: 400;
-  line-height: 16px;
-  letter-spacing: 0.04em;
-  text-align: left;
-  font-family: Roboto;
   font-size: 12px;
   font-weight: 400;
   line-height: 1.17;
