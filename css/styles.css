@@ -730,7 +730,6 @@ img {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.32px;
-  /*margin-bottom: 16px;*/
 }
 
 .modal-field {
@@ -836,8 +835,8 @@ img {
 }
 
 .check-text {
-  display: flex;
-  align-items: center;
+  /*display: flex;*/
+  /*align-items: center;*/
   color: #8e8f99;
   font-size: 12px;
   font-weight: 400;
